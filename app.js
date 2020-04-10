@@ -9,7 +9,7 @@ const usersRouter = require('./routes/users');
 
 const app = express();
 const mongoose = require('mongoose');
-const mongoDB = 'mongodb+srv://saikrishna45:Saibaba510@cluster0-qtttb.mongodb.net/test?retryWrites=true&w=majority';
+const mongoDB = 'mongodb+srv://saikrishna45:Saibaba510@@cluster0-qtttb.mongodb.net/test?retryWrites=true&w=majority';
 mongoose.connect(mongoDB, { useNewUrlParser: true, useUnifiedTopology: true});
 const db = mongoose.connection;
 db.on('error', console.error.bind(console, 'MongoDB connection error:'));
