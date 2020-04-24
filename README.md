@@ -7,5 +7,4 @@
 * views
 * controllers 
 #
-  ![]
-  (https://www.guru99.com/images/1/122118_0445_MVCTutorial1.png)
+  ![](https://www.w3schools.in/wp-content/uploads/2019/03/MVC-Architecture.png)
