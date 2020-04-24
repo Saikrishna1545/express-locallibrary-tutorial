@@ -5,4 +5,6 @@
 * routes
 * models
 * views
-* controllers
+* controllers 
+#
+  ![](https://www.w3schools.in/wp-content/uploads/2019/03/MVC-Architecture.png)
