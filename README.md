@@ -7,4 +7,4 @@
 * views
 * controllers 
 #
- ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tutorialsteacher.com%2Fmvc%2Fmvc-architecture&psig=AOvVaw1OCtMFkPtlnYVui9noDF9B&ust=1587842249751000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjkxKfjgekCFQAAAAAdAAAAABAD)
+  ![](https://www.history.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTY1MTc3MjE0MzExMDgxNTQ1/topic-golden-gate-bridge-gettyimages-177770941.jpg)
