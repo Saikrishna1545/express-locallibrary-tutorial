@@ -201,7 +201,8 @@ exports.author_update_post = [
                 date_of_death: req.body.date_of_death,
                 _id: req.params.id
             }
-        );
+        ); 
+        
 
         if (!errors.isEmpty()) {
             // There are errors. Render the form again with sanitized values and error messages.

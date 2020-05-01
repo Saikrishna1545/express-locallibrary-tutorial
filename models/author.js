@@ -29,6 +29,7 @@ AuthorSchema.virtual('url').get(function() {
   return '/catalog/author/' + this._id;
 });
 
+
 AuthorSchema.virtual('lifespan').get(function() {
   var lifetime_string = '';
   if (this.date_of_birth) {
